@@ -94,8 +94,80 @@ function flip(event){
             "respuesta": "(21) Jeg slapper av"
         },
         {
-            "pregunta": "(22) Oversett: AMAS",
-            "respuesta": "(22) Du elsker"
+            "pregunta": "(22) Oversett: Cantamos una canción",
+            "respuesta": "(22) Vi synger en sang"
+        },
+        {
+            "pregunta": "(23) Oversett: Tú y yo miramos el auto",
+            "respuesta": "(23) Du og jeg ser på bilen"
+        },
+        {
+            "pregunta": "(24) Oversett: AMAS",
+            "respuesta": "(24) Du elsker"
+        },
+        {
+            "pregunta": "(25) Oversett: Ella necesita ayuda",
+            "respuesta": "(25) Hun trenger hjelp"
+        },
+        {
+            "pregunta": "(26) Oversett: Yo deseo un gato en navidad",
+            "respuesta": "(26) Jeg ønsker en kat på jul"
+        },
+        {
+            "pregunta": "(27) Oversett: Él bebe mucha agua",
+            "respuesta": "(27) Han drikker mye vann"
+        },
+        {
+            "pregunta": "(28) Oversett: Yo como desayuno temprano",
+            "respuesta": "(28) Jeg spiser frokost tidlig"
+        },
+        {
+            "pregunta": "(29) Oversett: Él habla mucho",
+            "respuesta": "(29) Han snakker mye"
+        },
+        {
+            "pregunta": "(30) Oversett: Ellos hablan poco",
+            "respuesta": "(30) De snakker litt"
+        },
+        {
+            "pregunta": "(31) Oversett: Tú adivinas el futuro",
+            "respuesta": "(31) Du gjetter fremtiden"
+        },
+        {
+            "pregunta": "(32) Oversett: Løper vi sammen?",
+            "respuesta": "(32) ¿Corremos juntos?"
+        },
+        {
+            "pregunta": "(33) Oversett: Jeg liker godteriet",
+            "respuesta": "(33) Me gusta los dulces"
+        },
+        {
+            "pregunta": "(34) Oversett: Jeg sparer penger nå",
+            "respuesta": "(34) Yo ahorro dinero ahora"
+        },
+        {
+            "pregunta": "(35) Oversett: Hun drikker mye melk",
+            "respuesta": "(35) Ella bebe mucha leche "
+        },
+        {
+            "pregunta": "(36) Oversett: Dere elsker naturen",
+            "respuesta": "(36) Vosotros amáis la naturaleza"
+        },
+        {
+            "pregunta": "(37) Oversett: Du ser på mye TV",
+            "respuesta": "(37) Tú ves mucha TV"
+        },
+        {
+            "pregunta": "(38) Oversett: De løper fort",
+            "respuesta": "(38) Ellos/Ellas corren rápido"
+        },
+        {
+            "pregunta": "(39) Oversett: Du trenger mye penger",
+            "respuesta": "(39) Tú necesitas mucho dinero"
+        },
+        {
+            "pregunta": "(35) Oversett: Hun spiser mat nå",
+            "respuesta": "(35) Ella come comida ahora"
         },
     ]
     
