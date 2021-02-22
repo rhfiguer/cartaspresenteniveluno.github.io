@@ -166,8 +166,8 @@ function flip(event){
             "respuesta": "(39) Tú necesitas mucho dinero"
         },
         {
-            "pregunta": "(35) Oversett: Hun spiser mat nå",
-            "respuesta": "(35) Ella come comida ahora"
+            "pregunta": "(40) Oversett: Hun spiser mat nå",
+            "respuesta": "(40) Ella come comida ahora"
         },
     ]
     
